@@ -13,7 +13,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/akintolahammed/Threat-Hunting-Scenario-Tor/tree/main)**
 - **[Threat Hunting Scenario: (Data Exfiltration from PIP'd Employee)](https://github.com/akintolahammed/Data-Exfiltration/tree/main)**
 - **[Incident Response: Create Alert Rule (Brute Force Attempt Detection)](https://github.com/akintolahammed/Create-Alert-Rule-Brute-Force-Attempt-Detection/tree/main)**
-- **[Incident Response: Create Alert Rule (PowerShell Suspicious Web Request) (Tor Browser Usage)](https://github.com/hammedakintola/Create-Alert-Rule-PowerShell-Suspicious-Web-Request/tree/main)**
+- **[Incident Response: Create Alert Rule (PowerShell Suspicious Web Request)](https://github.com/akintolahammed/Create-Alert-Rule-PowerShell-Suspicious-Web-Request/tree/main)**
 - **[Incident Response: Create Alert Rule (Potential Impossible Travel)](https://github.com/hammedakintola/Potential-Impossible-Travel-Alert/blob/main/README.md)**
 - **[Threat Hunting Incident: (Sudden Network Slowdowns)](https://github.com/hammedakintola/Sudden-Network-Slowdowns/blob/main/README.md)**
 - **[Threat Hunting Incident: (Sudden Network Slowdowns)](https://github.com/hammedakintola/Sudden-Network-Slowdowns/blob/main/README.md)**
