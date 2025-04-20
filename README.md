@@ -16,7 +16,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Incident Response: Create Alert Rule (PowerShell Suspicious Web Request)](https://github.com/akintolahammed/Create-Alert-Rule-PowerShell-Suspicious-Web-Request/tree/main)**
 - **[Incident Response: Create Alert Rule (Potential Impossible Travel)](https://github.com/akintolahammed/Potential-Impossible-Travel-Alert/tree/main)**
 - **[Threat Hunting Incident: (Sudden Network Slowdowns)](https://github.com/akintolahammed/Sudden-Network-Slowdowns/tree/main)**
-- **[Threat Hunting Incident: (Public Facing IP Detection)](https://github.com/hammedakintola/DeviceInfo-Public-Ip-Address-Detected/blob/main/README.md)**
+- **[Threat Hunting Incident: (Public Facing IP Detection)](https://github.com/akintolahammed/DeviceInfo-Public-Ip-Address-Detected)**
 
 <hr/>
 
