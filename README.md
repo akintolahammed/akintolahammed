@@ -11,6 +11,13 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario: (Data Exfiltration from PIP'd Employee)](https://github.com/hammedakintola/Data-Exfiltration/blob/main/README.md)**
+- **[Incident Response: Create Alert Rule (Brute Force Attempt Detection)](https://github.com/hammedakintola/Create-Alert-Rule-Brute-Force-Attempt-Detection/blob/main/README.md)**
+- **[Incident Response: Create Alert Rule (PowerShell Suspicious Web Request) (Tor Browser Usage)](https://github.com/hammedakintola/Create-Alert-Rule-PowerShell-Suspicious-Web-Request/tree/main)**
+- **[Incident Response: Create Alert Rule (Potential Impossible Travel)](https://github.com/hammedakintola/Potential-Impossible-Travel-Alert/blob/main/README.md)**
+- **[Threat Hunting Incident: (Sudden Network Slowdowns)](https://github.com/hammedakintola/Sudden-Network-Slowdowns/blob/main/README.md)**
+- **[Threat Hunting Incident: (Sudden Network Slowdowns)](https://github.com/hammedakintola/Sudden-Network-Slowdowns/blob/main/README.md)**
+- **[Threat Hunting Incident: (Public Facing IP Detection)](https://github.com/hammedakintola/DeviceInfo-Public-Ip-Address-Detected/blob/main/README.md)**
 
 <hr/>
 
