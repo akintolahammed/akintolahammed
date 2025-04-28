@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/akintolahammed/Vulnerability-Management-Program-Implementation/blob/main/README.md)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[10-STIG-Implementations-Remediations-PowerShell (PowerShell)](https://github.com/akintolahammed/10-STIG-Implementations-Remediations-PowerShell-/blob/main/README.md)**
 
 ## 🚨 Threat Hunting and Security Operations
 
